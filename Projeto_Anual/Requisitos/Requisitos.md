@@ -32,13 +32,13 @@ respectivos atributos.
 - Área de jogos destaque e/ou recomendados
 - Área do úsuario
 - Categorização dos jogos
-- perfil de cada jogo
+- Perfil de cada jogo
 - Suporte ao úsuario
 - Canal comunidade
 - Notícias
 - Carrinho de compras
 
-2. Específicação das classes:
+2. Específicação das funcionalidades:
     2.1. Local de busca
         - barra de pesquisa por jogo ou categoria
         - filtro por marcador
@@ -60,4 +60,42 @@ respectivos atributos.
         - área de troca
         - insígnias de jogo (troféus ganhos pelo úsuario)
     2.5. Categorização dos jogos:
-        -
+        - por gênero
+        - acesso antecipado
+        - mais vendidos
+        - lançamentos
+        - gratuitos
+        - ofertas
+        - recomendados para você
+    2.6. Perfil de cada jogo:
+        - nome
+        - breve descrição 
+        - avaliações (feedback)
+        - vídeos/fotos de cenas do jogo (trailer)
+        - data de lançamento
+        - categoria
+        - classificação indicativa
+        - número de jogadores
+        - "botão" para colocar o jogo no carrinho
+        - "botão" para colocar o jogo na lista de desejos
+    2.7. Suporte ao úsuario:
+        - local com perguntas frequentes
+        - como recuperar conta/senha
+        - área com e-mail para contato (para casos específicos)
+    2.8. Canal comunidade:
+        - forúns para discução sobre jogos/empresas
+        - feedbacks de jogos
+        - mercado da comunidade (compra e venda entre úsuarios)
+    2.9. Notícias:
+        - "em breve"
+        - do dia atual
+        - dias anteriores
+        - destaques
+    2.10. Carrinhos de compras:
+        - mostrar itens no carrinho
+        - valor total da compra
+        - área para cupons de desconto
+        - "comprar para minha conta ou comprar para presente"
+        - botão "continuar comprando"/"finalizar compra"
+        - botão "remover itens do carrinho"
+        - recomendados para você
