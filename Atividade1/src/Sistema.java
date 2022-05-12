@@ -1,8 +1,6 @@
 //Carolina Perez
 //RA: 20.00968-2
 
-
-
 public class Sistema {
     public static void executar(){
         Carro carro1 = new Carro(3000, "Ford Ka");

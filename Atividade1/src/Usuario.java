@@ -1,8 +1,6 @@
 //Carolina Perez
 //RA: 20.00968-2
 
-
-
 public class Usuario {
 private String nome;
 private Veiculo veiculo;

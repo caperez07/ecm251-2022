@@ -1,7 +1,6 @@
 //Carolina Perez
 //RA: 20.00968-2
 
-
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Veiculo {
