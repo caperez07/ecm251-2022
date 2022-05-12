@@ -1,7 +1,7 @@
 //Carolina Perez
 //RA: 20.00968-2
 
-package Atividade1;
+package Atividade1.src;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Veiculo {

@@ -1,7 +1,7 @@
 //Carolina Perez
 //RA: 20.00968-2
 
-package Atividade1;
+package Atividade1.src;
 
 public class Sistema {
     public static void executar(){
@@ -18,10 +18,10 @@ public class Sistema {
         Usuario usuario1 = new Usuario("Carolina");
         Usuario usuario2 = new Usuario("Julia");
         Usuario usuario3 = new Usuario("Clotilde");
-        Usuario usuario4 = new Usuario("Carminha");
+        Usuario usuario4 = new Usuario("Roseli");
         Usuario usuario5 = new Usuario("Bulba");
         Usuario usuario6 = new Usuario("Veridiana");
-        Usuario usuario7 = new Usuario("Marcela");
+        Usuario usuario7 = new Usuario("Carminha");
         Usuario usuario8 = new Usuario("Laura");
 
 
